@@ -47,11 +47,3 @@
 
 ### 📊 Статистика моєї активності
 ![Nikkeen's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nikkeen22&show_icons=true&theme=radical)
-### 📫 Як зі мною зв'язатися:
-* [cite_start]**Telegram/Телефон:** [+380 68 547 4794](tel:+380685474794) [cite: 9]
-* [cite_start]**Портфоліо:** [nikkeen-portfolio.vercel.app](https://nikkeen-portfolio.vercel.app/) 
-
----
-
-### 📊 Статистика моєї активності
-![Nikkeen's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nikkeen22&show_icons=true&theme=radical)
